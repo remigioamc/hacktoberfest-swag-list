@@ -18,3 +18,4 @@ exclude:
   - LICENSE
   - CNAME
 repository: "crweiner/hacktoberfest-swag-list"
+markdown: kramdown
